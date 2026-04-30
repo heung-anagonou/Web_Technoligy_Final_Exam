@@ -1,0 +1,6 @@
+services:
+  - type: web
+    name: student-marketplace
+    env: static
+    buildCommand: ""
+    staticPublishPath: .
