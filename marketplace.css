@@ -1,0 +1,13 @@
+body{
+    font-family:arial;
+    padding:30px;
+}
+.box{
+    border:1px solid black;
+    padding:20px;
+    margin:20px;
+    width:300px;
+}
+button{
+    padding:10px;
+}
