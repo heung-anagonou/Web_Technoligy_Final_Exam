@@ -1,0 +1,1 @@
+function goPage(){window.location='register.html';}

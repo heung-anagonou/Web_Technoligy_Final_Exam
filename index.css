@@ -1,0 +1,21 @@
+body{
+    font-family:arial;margin:0;
+}
+.top{
+    background:#233;color:white;padding:20px;
+}
+nav ul{
+    list-style:none;
+}
+nav li{
+    display:inline-block;padding:10px;
+}
+nav a{
+    color:white;text-decoration:none;
+}
+.hero{
+    text-align:center;padding:150px;background:#dde;
+}
+button{
+    padding:10px;
+}
